@@ -1,5 +1,5 @@
 Print
-1) See [yourname]
+1) See [yourname](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%202/yourname.py)
 2) No variables appeared in the editor
 
 operations
