@@ -38,8 +38,8 @@ List
 
 
 Dictionary
-1) See (file name)
-2) See (file name)
+1) See (Dictionary)
+2) See (Dictionary)
 3) It counts the number of components that make up the dictionary in this case there were 4 (name, year of study, age, favourite foods).
 
 Array
