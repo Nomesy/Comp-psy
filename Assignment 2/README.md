@@ -22,6 +22,11 @@ Boolean
 1) See [Boolean].1 and 1.0 are equivalent but ‘1’ and ‘1.0’ are not. This is likely because 1 and 1.0 are numerals and represent the same numerical value. However,  ‘1’ and ‘1.0’ are strings and thus act more like words.
 2) See [Boolean]. Yes, it is equivalent.
 3) See [Boolean].
+            print(1 == 1.0 or "1" == "1.0" and 5 == (3+2))
+            print(1 == 1.0 and not "1" == "1.0" or 5 == (3+2))
+            print(1 == 1.0 or "1" == "1.0" or 5 == (3+2))
+            print(1 == 1.0 or "1" == "1.0" and not 5 == (3+2))
+            print(1 == 1.0 and not "1" == "1.0" and 5 == (3+2))       
 
 List
 1) See [List]. Oddlist did become a variable.
