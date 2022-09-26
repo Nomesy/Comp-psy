@@ -3,10 +3,10 @@ Print
 2) No variables appeared in the editor
 
 operations
-1) See [operations]. They both output the answer 2.5.
-2) See [operations]. Modulo divides the numbers and outputs the remainder of the division operation, such as outputting 2 from an input of 8/3.
-3) See [operations]. // compliments modulo because it provides the number of times one number fits inside of another. For instance, it outputs 2 from an input of 11/4  because 4 fits into 11 2 times but leaves a remainder of 3 which isn't enough for the third group of 4. ** is for performing exponent operations in python.
-5) See [operations]. python does seem to follow the order of operations going off the results of the equations used.
+1) See [operations](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%202/Operations.py). They both output the answer 2.5.
+2) See [operations](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%202/Operations.py). Modulo divides the numbers and outputs the remainder of the division operation, such as outputting 2 from an input of 8/3.
+3) See [operations](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%202/Operations.py). // compliments modulo because it provides the number of times one number fits inside of another. For instance, it outputs 2 from an input of 11/4  because 4 fits into 11 2 times but leaves a remainder of 3 which isn't enough for the third group of 4. ** is for performing exponent operations in python.
+5) See [operations](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%202/Operations.py). python does seem to follow the order of operations going off the results of the equations used.
 
 
 Variables
