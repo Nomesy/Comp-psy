@@ -19,9 +19,9 @@ Variables
 
 
 Boolean
-1) See [Boolean].1 and 1.0 are equivalent but ‘1’ and ‘1.0’ are not. This is likely because 1 and 1.0 are numerals and represent the same numerical value. However,  ‘1’ and ‘1.0’ are strings and thus act more like words.
-2) See [Boolean]. Yes, it is equivalent.
-3) See [Boolean].
+1) See [Boolean](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%202/boolean.py).1 and 1.0 are equivalent but ‘1’ and ‘1.0’ are not. This is likely because 1 and 1.0 are numerals and represent the same numerical value. However,  ‘1’ and ‘1.0’ are strings and thus act more like words.
+2) See [Boolean](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%202/boolean.py). Yes, it is equivalent.
+3) See [Boolean](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%202/boolean.py).
             print(1 == 1.0 or "1" == "1.0" and 5 == (3+2))
             print(1 == 1.0 and not "1" == "1.0" or 5 == (3+2))
             print(1 == 1.0 or "1" == "1.0" or 5 == (3+2))
@@ -29,23 +29,23 @@ Boolean
             print(1 == 1.0 and not "1" == "1.0" and 5 == (3+2))       
 
 List
-1) See [List]. Oddlist did become a variable.
-2) See [List].
-3) See [List]. It says that it is 5 long.
-4) See [List]. It says it is a list.
-5) See [List].
-6) See [List]. It does list all integers between 0 and 100.
+1) See [List](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%202/list.py). Oddlist did become a variable.
+2) See [List](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%202/list.py).
+3) See [List](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%202/list.py). It says that it is 5 long.
+4) See [List](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%202/list.py). It says it is a list.
+5) See [List](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%202/list.py).
+6) See [List](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%202/list.py). It does list all integers between 0 and 100.
 
 
 Dictionary
-1) See (Dictionary)
-2) See (Dictionary)
-3) It counts the number of components that make up the dictionary in this case there were 4 (name, year of study, age, favourite foods).
+1) See [Dictionary](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%202/dictionary.py).
+2) See [Dictionary](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%202/dictionary.py).
+3) See [Dictionary](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%202/dictionary.py). It counts the number of components that make up the dictionary in this case there were 4 (name, year of study, age, favourite foods).
 
 Array
-1) See [Array]. The integers are converted into floats so the entire array is displayed as integers rather than mixed numbers.
-2) See [Array]. The floats and integers are converted into strings.
-3) See [Array].
-4) See [Array].
+1) See [Array](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%202/array.py). The integers are converted into floats so the entire array is displayed as integers rather than mixed numbers.
+2) See [Array](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%202/array.py). The floats and integers are converted into strings.
+3) See [Array](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%202/array.py).
+4) See [Array](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%202/array.py).
 
 
