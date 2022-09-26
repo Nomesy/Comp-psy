@@ -1,5 +1,5 @@
 Print
-1) See yourname.py
+1) See [yourname]
 2) No variables appeared in the editor
 
 operations
