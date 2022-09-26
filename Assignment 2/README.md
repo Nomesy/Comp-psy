@@ -10,12 +10,12 @@ operations
 
 
 Variables
-1) See [Variables].
-2) See [Variables]. yes (letter1=k, letter2=y, letter3=l,  letter4=e)
-3) See [Variables]. Python does not have any problems with variables having the same value.
-4) See [Variables]. Do not have repeat letters in my name.
-5) See [Variables]. Changing the value of letterx did not affect the other variable.
-6) See [Variables]. It did not change the value of letterx, this tells me that variables are not automatically “updated” to match new values that come after it was defined.
+1) See [yourname modified].
+2) See [yourname modified]. yes (letter1=k, letter2=y, letter3=l,  letter4=e)
+3) See [yourname modified]. Python does not have any problems with variables having the same value.
+4) See [yourname modified]. Do not have repeat letters in my name.
+5) See [yourname modified]. Changing the value of letterx did not affect the other variable.
+6) See [yourname modified]. It did not change the value of letterx, this tells me that variables are not automatically “updated” to match new values that come after it was defined.
 
 
 Boolean
