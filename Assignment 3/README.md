@@ -11,9 +11,9 @@
 1) see [Zipping](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%203/Zipping.py).
 
 ## Indexing exercises
-1) see [Indexing].
-2) see [Indexing].
-3) see [Indexing].
+1) see [Indexing](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%203/indexing.py).
+2) see [Indexing](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%203/indexing.py).
+3) see [Indexing](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%203/indexing.py).
 
 ## Slicing exercises
 1) see [Splicing].
