@@ -8,7 +8,7 @@
 3) see [List operations](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%203/List%20operations.py).
 
 ## Zipping exercises
-1) see [Zipping].
+1) see [Zipping](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%203/Zipping.py).
 
 ## Indexing exercises
 1) see [Indexing].
