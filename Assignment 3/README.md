@@ -1,6 +1,6 @@
 ## Variable operations exercises
-1) see [Variable operations]. Only subnr_str can be add sub_code. You can not add Integers to strings so only other strings can be added.
-2) see [Variable operations]. 
+1) see [Variable operations](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%203/variable%20operations.py). Only subnr_str can be add sub_code. You can not add Integers to strings so only other strings can be added.
+2) see [Variable operations](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%203/variable%20operations.py). 
 
 ## List operations exercises
 1) see [List operations](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%203/List%20operations.py).
