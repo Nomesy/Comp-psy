@@ -16,8 +16,8 @@
 3) see [Indexing](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%203/indexing.py).
 
 ## Slicing exercises
-1) see [Splicing].
-2) see [Splicing].
-3) see [Splicing].
-4) see [Splicing].
-5) see [Splicing]. They are equal. print(list100[39:44] == [39,40,41,42,43])
+1) see [Splicing](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%203/splicing.py).
+2) see [Splicing](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%203/splicing.py).
+3) see [Splicing](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%203/splicing.py).
+4) see [Splicing](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%203/splicing.py).
+5) see [Splicing](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%203/splicing.py). They are equal. print(list100[39:44] == [39,40,41,42,43])
