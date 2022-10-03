@@ -3,9 +3,9 @@
 2) see [Variable operations]. 
 
 ## List operations exercises
-1) see [List operations].
-2) see [List operations]. Multpiling a list results in multipling the amount of each item in the list, such as [1, 2, 3] * 2 = [1, 2, 3, 1, 2, 3]. Multipling an array results in multiplng the value of each item in the array, such as [1, 2, 3] * 2 = [2, 4, 6].
-3) see [List operations].
+1) see [List operations](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%203/List%20operations.py).
+2) see [List operations](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%203/List%20operations.py). Multpiling a list results in multipling the amount of each item in the list, such as [1, 2, 3] * 2 = [1, 2, 3, 1, 2, 3]. Multipling an array results in multiplng the value of each item in the array, such as [1, 2, 3] * 2 = [2, 4, 6].
+3) see [List operations](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%203/List%20operations.py).
 
 ## Zipping exercises
 1) see [Zipping].
