@@ -10,6 +10,6 @@
 4. See [For loop](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%204/For%20Loop.py).
 
 # While Loop Exercise
-1. See [While loop].
-2. See [While loop].
-3. See [While loop].
+1. See [While loop](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%204/While%20Loop.py).
+2. See [While loop](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%204/While%20Loop.py).
+3. See [While loop](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%204/While%20Loop.py).
