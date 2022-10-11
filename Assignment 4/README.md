@@ -1,7 +1,7 @@
 # Conditional Exercise
-1. See [Conditional].
-2. See [Conditional].
-3. See [Conditional]. it does exactly as its suppost to, reports back 'correct' with '1', 'incorrect' with '2', and 'subject pressed the wrong key' with '4'.
+1. See [Conditional](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%204/Conditional.py).
+2. See [Conditional](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%204/Conditional.py).
+3. See [Conditional](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%204/Conditional.py). it does exactly as its suppost to, reports back 'correct' with '1', 'incorrect' with '2', and 'subject pressed the wrong key' with '4'.
 
 # For Loop Exercise
 1. See [For loop].
