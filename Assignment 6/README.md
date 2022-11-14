@@ -1,12 +1,12 @@
 ## Dialog box exercises
-
+See [Assignment 6](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%206/Assignment%206.py).
 
 2. Set the variable "session" as fixed. What happens? 
 
 Setting session as fixed make the dialog box for that variable locked/uneditable for the participant. The value it is locked as is '1' which is what we defined it as in the code.
 
 ## Monitor and window exercises
-
+See [Assignment 6](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%206/Assignment%206.py).
 
 1. How does changing "units" affect how you define your window size?
 
@@ -19,7 +19,7 @@ ColorSpace chagnes the way you define colour for instance 'rgb' colorSpace has t
 you can define colours by name for instance the trial end message was made aquamarine by defining its like "colors = 'aquamarine'."
 
 ## Stimulus exercises
-
+See [Assignment 6](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%206/Assignment%206.py).
 
 1. Write a short script that shows different face images from the image directory at 400x400 pixels in size. What does this do to the images? How can you keep the proper image dimensions and still change the size?
 
