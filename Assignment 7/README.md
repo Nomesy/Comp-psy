@@ -8,5 +8,5 @@ See [Assignment 7 Wait and wait timer](https://github.com/Nomesy/Comp-psy/blob/m
 4. See [Assignment 7 Trial and block timer](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%207/Assignment%207%20Trial%20and%20block%20timer.py).
 
 ## Frame-based timing exercises
-See [Assignment 7 Frames](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%207/Assignment%207%20Frames.py).
-2.  Dropped frames are ussually under 6 so keeping the frame-based method.
+1. See [Assignment 7 Frames](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%207/Assignment%207%20Frames.py).
+2. Dropped frames are ussually under 6 so keeping the frame-based method.
