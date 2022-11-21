@@ -40,7 +40,7 @@ for trial in range(nTrials):
         
     #-draw image
     clock_wait_timer.reset()
-    while clock_wait_timer.getTime() <= 2:  #Instead of 2 seconds countdown_timer was actually about 2.012 (2.000-2.017) seconds on average. It is better than core.wait.
+    while clock_wait_timer.getTime() <= 2: 
         my_image.draw()
         #-flip window
         win.flip()
