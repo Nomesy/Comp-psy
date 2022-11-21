@@ -45,7 +45,7 @@ for trial in range(nTrials):
         #-flip window
         win.flip()
         #-wait time (stimulus duration)
-        core.wait(2) #instead of 2 seconds core.wait was actually about 2.016 (2.014-2.018) seconds on average.
+        core.wait(2) 
         wait_timer.getTime()
         print('Stimuli '+str(trial)+' time =', wait_timer.getTime())
         
