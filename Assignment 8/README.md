@@ -15,3 +15,6 @@ See [Assingment 8 - part 2](https://github.com/Nomesy/Comp-psy/blob/main/Assignm
 
 ## Json
 Could not get it to work.
+
+## Read JSON exercises (used csv)
+See [Assingment 8 - part 2](https://github.com/Nomesy/Comp-psy/blob/main/Assignment%208/Assignment%208%20-%20part%202.py).
