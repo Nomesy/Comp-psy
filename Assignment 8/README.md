@@ -3,7 +3,7 @@ See [Assingment 8 - part 1](https://github.com/Nomesy/Comp-psy/blob/main/Assignm
 
 2. event.clearEvents() in the for loop allows the code to be able to clear any key presses that happen right before the codes postion in the loop for each trial. outside it only clears key presses that happen right before the experement begins once.
 
-When “if keys” is unidented the “response that was counted” is only output’ed for the last trial’s first key press.
+  When “if keys” is unidented the “response that was counted” is only output’ed for the last trial’s first key press.
 
 ## Psychtoolbox keypress exercises
 not supposted to do it.
